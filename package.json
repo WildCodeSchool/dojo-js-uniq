@@ -1,0 +1,15 @@
+{
+  "name": "fibo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fibo.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
